@@ -1,3 +1,3 @@
 # DBLPHPHook
 
-Discord WEBHook linkini değişin, DBL üzerinden bağlantı ayarlayın
+Discord Webhook bağlantısını ayarlayıp DBL üzerinden dosya bağlantısını ayarlayın.
